@@ -47,8 +47,10 @@
 			3) 시계열 분석: 주식 가격은 시계열 데이터이지만 다양한 요인에 의해 영향을 받는 데이터이므로  장기 예측에 시계열 분석이 적절하지 않았던 것으로 생각된다.<br/></p>
 		- Futher Research : 교수님 -> 이 경우 패널 분석을 진행하는 것이 좋을 것이라면서 추후 개별적으로 알아가라 조언<br/>
 
-*보러가기: [지표를 이용한 삼성전자 주가 예측 및 상관관계 분석](https://github.com/siamga/portfolio/tree/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1)*
-      
+*보러가기: [지표를 이용한 삼성전자 주가 예측 및 상관관계 분석](https://github.com/siamga/portfolio/tree/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1)*<br/>
+*보러가기: [관련 PPT 자료: 중간발표](https://github.com/siamga/portfolio/blob/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20ppt.pdf)*<br/>
+*보러가기: [관련 PPT 자료: 최종발표](https://github.com/siamga/portfolio/blob/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20ppt.pdf)*<br/>
+
 ***
 <h2> #2. Project - 고객 데이터 기반 은행 마케팅 비용 감축 최적 모델 선정</h2>
 
